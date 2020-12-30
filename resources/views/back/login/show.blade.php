@@ -11,9 +11,9 @@
     <title>Login - {{config('app.name')}}</title>
   </head>
   <body>
-    <section class="material-half-bg">
+    <!-- <section class="material-half-bg">
       <div class="cover"></div>
-    </section>
+    </section> -->
     @include('flash::message')
     <section class="login-content">
       <div class="logo">
